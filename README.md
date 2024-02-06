@@ -1,12 +1,14 @@
 # Ajax-Weather-App
 
-**Introduction**
+**Introduction**:
+
 This project is a simple Weather App that allows users to fetch weather information based on latitude and longitude coordinates. It utilizes the Open-Meteo API to retrieve current weather data and hourly forecasts for the next 24 hours.
 
-**Features**
-Input latitude and longitude coordinates to get weather information.
-Displays current weather including temperature and wind speed.
-Provides hourly forecast for the next 24 hours including temperature, relative humidity, and wind speed.
+**Features**:
+
+1. Input latitude and longitude coordinates to get weather information.
+2. Displays current weather including temperature and wind speed.
+3. Provides hourly forecast for the next 24 hours including temperature, relative humidity, and wind speed.
 
 **Technologies Used**
 1. HTML
