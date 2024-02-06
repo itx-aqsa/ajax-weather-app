@@ -20,9 +20,8 @@ This project is a simple Weather App that allows users to fetch weather informat
 **Setup**
 
 1. Clone the repository to your local machine using the command:
-   git clone https://github.com/your-username/weather-app.git
-2. Navigate to the project directory:
-   cd weather-app
+   git clone https://github.com/itx-aqsa/ajax-weather-app.git
+2. Navigate to the project directory.
 3. Open the index.html file in your web browser.
 
 **Usage**
